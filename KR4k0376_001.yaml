@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4k0376/chant/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 張咨涼記天錫字公純嘏安定烏氐人張耳後也曾祖軌永嘉中為涼州刺史值京師大亂遂據涼土天錫篡位自立為涼州牧苻堅使將萇攻沒涼州天錫歸長安堅以為侍中北部尚書歸義侯從堅至壽陽堅軍敗遂南歸拜散騎常侍西平公世說注二案此引作張資涼州記下同天錫明鑒穎發英聲少著同上
+  hash: sha256:2408b52ec3d10ab96f3b490483312a5e7738cbee92347a74cd70ba093e526bac
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR4k0376_CHANT_001-1a.1-h}
+metadata:
+  title: 張諮涼記一卷
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR4k0376.xml
+hash: sha256:6c505993c0c0cdbc020ce525cb16138c05b95fae6144c4db908be2fe20387eb1
