@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 張諮涼記天錫字公純嘏安定烏氐人張耳後也曾祖軌永嘉中為涼州刺史值京師大亂遂據涼土天錫篡位自立為涼州牧苻堅使將萇攻沒涼州天錫歸長安堅以為侍中北部尚書歸義侯從堅至壽陽堅軍敗遂南歸拜散騎常侍西平公世說注二案此引作張資涼州記下同天錫明鑒穎發英聲少著同上
-  hash: sha256:33bcc79e9b483063e7e2f803f2e03b496ebafa5caa373e357d5405987d0ab072
+  text: 張咨涼記天錫字公純嘏安定烏氐人張耳後也曾祖軌永嘉中為涼州刺史值京師大亂遂據涼土天錫篡位自立為涼州牧苻堅使將萇攻沒涼州天錫歸長安堅以為侍中北部尚書歸義侯從堅至壽陽堅軍敗遂南歸拜散騎常侍西平公世説注二案此引作張資涼州記下同天錫明鑒穎發英聲少著同上
+  hash: sha256:f9aad89b492e2abd443086c2d378e125d6699c0bfb1fa44feada2f79790f9e55
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR4k0376_CHANT_001-1a.1-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR4k0376.xml
-hash: sha256:f4ea93208ee64c1b3f8efce52220a238d16021df62b94dc0b9843f2597ac05d7
+hash: sha256:44dda32e49da94bec642ffdb4eaaad951c6543fc18d6d4a77d6bf530a1f19512
